@@ -9,6 +9,8 @@ Rayleigh Number: 1e4
 
 Convective schmes: Upwind, Quick
 
+Numerical Method: Gauss Seidel Iterative method to solve AX=B
+
 To Build:
 
 make
